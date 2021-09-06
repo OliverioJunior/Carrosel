@@ -1,3 +1,3 @@
 # Carrosel_html-css
 
-Efeito de slide usando CSS3 e HTML%
+Efeito de slide usando CSS3 e HTML5
